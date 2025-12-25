@@ -94,7 +94,7 @@ The dataset contains order timestamps, pizza sizes, categories, quantities, and 
 ---
 
 ## 👤 Author
-**Shivam**  
+**Shivam Pandey**  
 Engineering Student | SQL & Data Analysis Enthusiast  
 
 ---
